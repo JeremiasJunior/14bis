@@ -1,0 +1,8 @@
+#all required libs
+numpy
+pandas
+zmq
+datetime
+MetaTrader5
+statsmodels
+arch
