@@ -5,11 +5,6 @@ import numpy as np
 
 from collections import deque
 
-
-_login = 10084329
-_password = 'Dy41KitG'
-_server = 'B2Broker-MetaTrader5'
-
 class MetaTrader_API:
 
 
